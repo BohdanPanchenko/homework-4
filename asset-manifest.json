@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.31d6cfe0.css",
-    "main.js": "/react-gh-pages/static/js/main.6cafb72d.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.6cafb72d.js.map": "/react-gh-pages/static/js/main.6cafb72d.js.map"
+    "main.css": "/homework-4/static/css/main.31d6cfe0.css",
+    "main.js": "/homework-4/static/js/main.6cafb72d.js",
+    "index.html": "/homework-4/index.html",
+    "main.6cafb72d.js.map": "/homework-4/static/js/main.6cafb72d.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
